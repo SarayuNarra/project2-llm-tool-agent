@@ -82,15 +82,10 @@ The planner converts the user's request into structured steps using Pydantic mod
                               v
                          Final Answer
 
-                         
-                         ## 👩‍💻 Author
-
-**Sarayu Narra**  
-B.Tech Artificial Intelligence  
-SRM Institute of Science and Technology
-
-🔗 [GitHub](https://github.com/SarayuNarra)
-
 ---
 
-⭐ *Built as part of my journey toward becoming an AI Engineer.*
+### 👩‍💻 Sarayu Narra
+
+B.Tech Artificial Intelligence | SRM Institute of Science and Technology
+
+⭐ Built as part of my journey toward becoming an AI Engineer.
